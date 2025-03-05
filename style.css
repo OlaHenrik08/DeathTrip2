@@ -64,6 +64,7 @@ h1, p {
 }
 #nr1{
     background-image:url(bilder/glassMedAlkohol.jpg);
+    /*Bildet er fra <a href="https://unsplash.com/@enginakyurt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">engin akyurt</a> on <a href="https://unsplash.com/photos/clear-glass-beer-mug-with-beer-3ORoQEJY9LA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*/
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
