@@ -63,7 +63,10 @@ h1, p {
     margin-left: 10px;
 }
 #nr1{
-    background-image:url();
+    background-image:url(bilder/glassMedAlkohol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 }
 #nr2{
     background-image:url();
