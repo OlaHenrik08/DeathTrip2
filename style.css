@@ -151,3 +151,12 @@ img{
 #nr5{
     background-image:url();
 }
+.color-red{
+    color:#9E0700;
+}
+.color-gray{
+    color: #808080;
+}
+.color-black{
+    color: #010006;
+}
